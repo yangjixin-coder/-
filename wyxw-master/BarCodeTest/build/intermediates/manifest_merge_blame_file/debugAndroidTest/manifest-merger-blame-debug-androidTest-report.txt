@@ -1,0 +1,76 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ericssonlabs.test" >
+4
+5    <uses-sdk
+5-->C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2637507826574859454.xml:5:5-73
+6        android:minSdkVersion="9"
+6-->C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2637507826574859454.xml:5:15-40
+7        android:targetSdkVersion="19" />
+7-->C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2637507826574859454.xml:5:41-70
+8
+9    <instrumentation
+9-->C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2637507826574859454.xml:11:5-15:71
+10        android:name="android.test.InstrumentationTestRunner"
+10-->C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2637507826574859454.xml:11:22-75
+11        android:functionalTest="false"
+11-->C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2637507826574859454.xml:14:22-52
+12        android:handleProfiling="false"
+12-->C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2637507826574859454.xml:13:22-53
+13        android:label="Tests for com.ericssonlabs.test"
+13-->C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2637507826574859454.xml:15:22-69
+14        android:targetPackage="com.ericssonlabs.test" />
+14-->C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2637507826574859454.xml:12:22-67
+15
+16    <uses-permission android:name="android.permission.VIBRATE" />
+16-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-66
+16-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-63
+17    <uses-permission android:name="android.permission.CAMERA" />
+17-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-65
+17-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-62
+18
+19    <uses-feature android:name="android.hardware.camera" />
+19-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-60
+19-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:19-57
+20    <uses-feature android:name="android.hardware.camera.autofocus" />
+20-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-70
+20-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:19-67
+21
+22    <application
+22-->C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2637507826574859454.xml:7:5-9:19
+23        android:debuggable="true"
+23-->C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2637507826574859454.xml:7:18-43
+24        android:label="@string/app_name" >
+24-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:18-50
+25        <uses-library android:name="android.test.runner" />
+25-->C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2637507826574859454.xml:8:9-60
+25-->C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2637507826574859454.xml:8:23-57
+26
+27        <activity
+27-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-26:20
+28            android:name="com.ericssonlabs.BarCodeTestActivity"
+28-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-64
+29            android:label="@string/app_name" >
+29-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-45
+30
+31            <!-- <intent-filter> -->
+32            <!-- <action android:name="android.intent.action.MAIN" /> -->
+33            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+34            <!-- </intent-filter> -->
+35        </activity>
+36        <activity
+36-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-33:20
+37            android:name="com.zxing.activity.CaptureActivity"
+37-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-62
+38            android:configChanges="orientation|keyboardHidden"
+38-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-63
+39            android:screenOrientation="portrait"
+39-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:13-49
+40            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+40-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-71
+41            android:windowSoftInputMode="stateAlwaysHidden" >
+41-->[__tested_artifact__::BarCodeTest] C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:13-60
+42        </activity>
+43    </application>
+44
+45</manifest>

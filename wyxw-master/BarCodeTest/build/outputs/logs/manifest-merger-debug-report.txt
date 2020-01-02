@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml
+		INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml
+		INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml
+		INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:7:22-63
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:8:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:10:19-67
+application
+ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:12:5-29:19
+	android:label
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:13:9-41
+activity#com.ericssonlabs.BarCodeTestActivity
+ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:14:9-21:20
+	android:label
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:15:13-48
+activity#com.zxing.activity.CaptureActivity
+ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:22:9-28:20
+	android:screenOrientation
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:25:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:27:13-60
+	android:configChanges
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:23:13-63
+	android:theme
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:26:13-71
+	android:name
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml:24:13-62
+uses-sdk
+INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml
+INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml
+INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml
+INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml
+		INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml
+		ADDED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml
+		INJECTED from C:\Users\dell\Desktop\Android项目源码一个优质的新闻客户端\Android项目源码一个优质的新闻客户端\wyxw-master\BarCodeTest\AndroidManifest.xml
